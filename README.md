@@ -1,4 +1,4 @@
-![Mapa de la anomalía climática en España](Climate_Anomaly_Enero2024_30y)
+![Mapa de la anomalía climática en España](Climate_Anomaly_Enero2024_30y.png)
 
 
 
