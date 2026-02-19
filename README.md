@@ -1,7 +1,7 @@
 # era5-climate-anomaly-spain-january2024
 Spatio-temporal analysis of January 2024 temperature anomalies in Spain using Copernicus ERA5-Land data and WMO 1991-2020 baselines.
 
-# 🌍 Spatio-Temporal Climate Anomaly Analysis (Spain)
+# Spatio-Temporal Climate Anomaly Analysis (Spain)
 
 This repository contains an R script designed to calculate and visualize high-resolution climate anomalies. Specifically, it compares the **January 2024** average temperatures in Spain against the **World Meteorological Organization (WMO) standard 30-year climatological baseline (1991-2020)**.
 
