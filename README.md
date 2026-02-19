@@ -8,3 +8,6 @@ The code connects directly to the Copernicus Climate Data Store (CDS) API using 
 
 To run this code, you need to install the ecmwfr, terra, and geodata packages in R. You will also need your own Copernicus API credentials. You can get these by registering on the Copernicus CDS website and accepting the terms of use for the ERA5 dataset. Once you have your email and API key, just replace the variables in the script with your own details and run the code.
 
+
+Key Findings:
+The analysis reveals significant positive thermal anomalies across the entire Iberian Peninsula. The most pronounced warming is concentrated in the Eastern and Southern regions, as well as the Central System (Sistema Central), where anomalies exceed +3.5°C to +4.0°C relative to the 30-year climatology. In contrast, the Northern coast and the Balearic Islands show more moderate—though still significant—warming, ranging between +1.0°C and +2.0°C.
